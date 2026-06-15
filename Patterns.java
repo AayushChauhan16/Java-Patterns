@@ -15,12 +15,8 @@ public class Patterns {
             System.out.println();
         }
 
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-
+        System.out.println();
+   
         /*
          * 2) Hollow rectangle:
          *****
@@ -124,7 +120,6 @@ public class Patterns {
             System.out.println();
         }
 
-        System.out.println();
         System.out.println();
 
         /*
