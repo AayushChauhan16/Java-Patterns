@@ -2,10 +2,7 @@ public class AdvancePatterns {
     public static void main(String args[]) {
         // 1) Butterfly pattern:
 
-        // Upper part
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        // Upper part
         System.out.println("Butterfly pattern:");
         for (int i = 1; i <= 4; i++) {
             for (int j = 1; j <= i; j++) {
@@ -34,9 +31,6 @@ public class AdvancePatterns {
             System.out.println();
         }
         System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
 
         // 2) Solid Rhombus:
         System.out.println("Solid Rhombus:");
@@ -62,11 +56,7 @@ public class AdvancePatterns {
             }
             System.out.println();
         }
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println();
 
         // 4) Palindromic pattern:
         System.out.println("Palindromic pattern: ");
@@ -82,11 +72,7 @@ public class AdvancePatterns {
             }
             System.out.println();
         }
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println();
 
         // 5) Diamond pattern: 
         System.out.println("Diamond pattern: ");
